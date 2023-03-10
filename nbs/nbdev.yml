@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "atomic-ideas"
+  site-url: "https://apereiral.github.io/atomic-ideas"
+  description: "An attempt to reproduce and organize AI papers into a modular framework with every paper being decomposed into its smallest proposed ideas."
+  repo-branch: main
+  repo-url: "https://github.com/apereiral/atomic-ideas"
